@@ -1,0 +1,24 @@
+
+.remove {
+  cursor: pointer;
+  color: orangered;
+}
+
+.alert {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.success {
+  background: rgb(14, 136, 14);
+}
+  
+.error {
+  background:rgb(255, 93, 93); 
+}
+
+.warning {
+  background: orange;
+}
